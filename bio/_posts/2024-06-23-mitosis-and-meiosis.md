@@ -1,0 +1,115 @@
+---
+layout: post
+title:    有丝分裂和减数分裂
+description: >
+  有丝分裂和减数分裂优秀作业展示
+sitemap: false
+image: /assets/img/bio/mitosis/1.jpg
+hide_last_modified: true
+---
+
+---
+
+## 白ZJ队-Meiosis
+
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1004230143&bvid=BV1Ax4y1B7FF&cid=1543176555&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+---
+
+## 安YH队-Mitosis and Meiosis
+
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1904132420&bvid=BV1Km411y7qT&cid=1530971223&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+---
+
+## 张RC队-Meiosis
+
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1104023651&bvid=BV1Uw4m1C719&cid=1530971164&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+---
+
+## 张RC队-Mitosis
+
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1004215711&bvid=BV1Tx4y1B7LC&cid=1543177769&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+---
+
+## 唐BS队-Mitosis and Meiosis
+
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1254167429&bvid=BV1pJ4m1K7Hq&cid=1543178425&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+---
+
+## 杨CY队-Mitosis and Meiosis
+
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1404102818&bvid=BV1er421E7G2&cid=1543179045&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+---
+
+## 孙YM队-Mitosis and Meiosis
+
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1204100953&bvid=BV1gf421U7XP&cid=1543179955&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+---
+
+## 李YF队-Mitosis and meiosis
+
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1254042355&bvid=BV1uJ4m1J7gZ&cid=1530971151&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+---
+
+## 李J队-Mitosis and meiosis
+
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1854216819&bvid=BV1Zs421P74q&cid=1543181182&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+---
+
+## 李YL队-Mitosis and Meiosis
+
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1904150032&bvid=BV1Hm411y7cN&cid=1530971148&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+---
+
+## 范TX队-Mitosis and Meiosis
+
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1254120963&bvid=BV1oJ4m1N7Ad&cid=1543182099&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+---
+
+## 白ZJ队-Mitosis
+
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1154180574&bvid=BV1tZ421E7WJ&cid=1530971145&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+---
+
+## 寇YN队-Mitosis and Meiosis
+
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1054085003&bvid=BV1tH4y137Dw&cid=1543182802&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+---
