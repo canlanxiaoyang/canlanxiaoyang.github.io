@@ -5,6 +5,7 @@ description: >
   有丝分裂和减数分裂优秀作业展示
 sitemap: false
 image: /assets/img/bio/mitosis/1.jpg
+hide_image: true
 hide_last_modified: true
 ---
 

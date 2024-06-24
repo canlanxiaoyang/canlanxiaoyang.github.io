@@ -5,6 +5,7 @@ description: >
   细胞呼吸和光合作用优秀作业展示
 sitemap: false
 image: /assets/img/bio/photosynthesis/1.jpg
+hide_image: true
 hide_last_modified: true
 ---
 

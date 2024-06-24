@@ -5,6 +5,7 @@ description: >
   细胞膜的流动镶嵌模型优秀作业展示
 sitemap: false
 image: /assets/img/bio/flow/4.jpg
+hide_image: true
 hide_last_modified: true
 ---
 
@@ -17,6 +18,10 @@ hide_last_modified: true
 ---
 
 ![](../../assets/img/bio/flow/3.jpg)
+
+---
+
+![](../../assets/img/bio/flow/4.jpg)
 
 ---
 
