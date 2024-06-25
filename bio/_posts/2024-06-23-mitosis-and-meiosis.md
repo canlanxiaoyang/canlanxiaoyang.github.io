@@ -2,7 +2,7 @@
 layout: post
 title:    有丝分裂和减数分裂
 description: >
-  有丝分裂和减数分裂优秀作业展示
+  为加深学生对有丝分裂和减数分裂过程的理解，培养学生的团队合作和沟通能力，3-4人为一组，制作一个展示有丝分裂和减数分裂全过程的视频。视频需包含旁白解释，详细阐述两个分裂过程的关键步骤，特别是减数分裂中的配对（联会）和交换（交叉互换）过程。
 sitemap: false
 image: /assets/img/bio/mitosis/1.jpg
 hide_image: true

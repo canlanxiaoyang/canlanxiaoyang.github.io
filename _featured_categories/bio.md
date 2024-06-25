@@ -10,8 +10,7 @@ slug: bio
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  这里是汇集了孩子们在基础生物、强化生物和AP生物课程中精心完成的作业佳作，每一份作业都是灵感和创意的呈现，让我们共同见证孩子们在生物学道路上的成长与进步！
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

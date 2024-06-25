@@ -2,7 +2,7 @@
 layout: post
 title:    细胞呼吸和光合作用
 description: >
-  细胞呼吸和光合作用优秀作业展示
+  围绕细胞呼吸或光合作用这两个主题展开，加深学生对细胞呼吸和光合作用的理解。
 sitemap: false
 image: /assets/img/bio/photosynthesis/1.jpg
 hide_image: true

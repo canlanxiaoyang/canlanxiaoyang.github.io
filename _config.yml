@@ -20,16 +20,15 @@
 lang:                  zh-cn
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 yxy
+title:                 BioBloom
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  The beautiful integration of education and life.
 
 # A shorter description for the sidebar.
-tagline:               xiaoyang's site
+tagline:               Education and Life
 
 # A list of keywords for your blog
 keywords:              []
@@ -70,7 +69,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2024. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
