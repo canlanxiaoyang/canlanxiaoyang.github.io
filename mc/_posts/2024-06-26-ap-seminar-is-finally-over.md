@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AP Seminar is finally over
-description: Repost from Lin's Blog
+description: Repost from [Lin's Blog](https://dreta.dev/)
 image: /assets/img/mc/ap-seminar/AGC_20240126_072218383.jpg
 hide_image: true
 sitemap: false
