@@ -1,3 +1,3 @@
 git add .
-git commit -m "[feat] add script."
+git commit -m "[doc] add new post."
 git push
