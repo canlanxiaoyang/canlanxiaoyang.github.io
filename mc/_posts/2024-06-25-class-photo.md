@@ -37,3 +37,8 @@ hide_last_modified: true
 
 ## 秋千旁的笑脸记录了我们第一次荣获star class的喜悦与自豪
 ![](../../assets/img/about/about_2.jpg)
+
+---
+
+## 我们每个人都互相是好朋友！
+![](../../assets/img/mc/class-photo/6.jpg)
