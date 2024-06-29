@@ -13,56 +13,42 @@ hide_last_modified: true
 
 ## 有氧呼吸版《爱在西元前》
 
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1954469093&bvid=BV1uC41177eZ&cid=1539191042&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1954469093&bvid=BV1uC41177eZ&cid=1539191042&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ---
 
 ## 光合作用
 
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1704398605&bvid=BV1TT421X7vh&cid=1539195648&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1704398605&bvid=BV1TT421X7vh&cid=1539195648&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ---
 
 ## 细胞呼吸版《巴啦啦小魔仙》
 
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1554272146&bvid=BV1i1421B7uy&cid=1539195644&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1554272146&bvid=BV1i1421B7uy&cid=1539195644&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ---
 
 ## 细胞呼吸
 
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1954452375&bvid=BV15C41177fv&cid=1539195761&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1954452375&bvid=BV15C41177fv&cid=1539195761&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ---
 
 ## 呼吸作用祈请颂
 
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1804542656&bvid=BV1ob421b73e&cid=1544068934&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1804542656&bvid=BV1ob421b73e&cid=1544068934&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ---
 
 ## 氧Distance
 
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1904652990&bvid=BV1UU411f7Gf&cid=1547178138&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1904652990&bvid=BV1UU411f7Gf&cid=1547178138&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ---
 
 ## 有氧呼吸版《倒带》
 
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1104324332&bvid=BV1sw4m197c8&cid=1539186636&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1104324332&bvid=BV1sw4m197c8&cid=1539186636&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
----s
+---
