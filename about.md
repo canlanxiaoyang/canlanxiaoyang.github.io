@@ -18,9 +18,12 @@ hide_description: true
 
 这里汇集了孩子们在基础生物、强化生物课程的学习中智慧和努力的结晶。他们的卓越才华和独特创意令人赞叹，我精心挑选了他们的优秀作业，期待与您共同欣赏这些成果。
 
+![](assets/img/about/about_3.png)
+
 ## Mc.Rojigally-pros
 
 这里分享了一群高中生们的日常点滴，包含他们的学习心得、生活趣事、读书感想，是我们师生共同成长的见证。
+
 ![](assets/img/about/about_2.jpg)
 
 ## 友情链接

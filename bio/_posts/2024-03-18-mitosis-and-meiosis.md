@@ -88,3 +88,11 @@ hide_last_modified: true
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1054085003&bvid=BV1tH4y137Dw&cid=1543182802&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ---
+
+![](../../assets/img/bio/mitosis/2.png)
+
+---
+
+![](../../assets/img/bio/mitosis/3.png)
+
+---

@@ -1,7 +1,7 @@
 ---
 layout: post
 description: >
-  Written by **Yukun Sun** (*Sophia*)
+  Written by **Sophia**
 image: /assets/img/mc/educated/1.jpg
 hide_image: true
 sitemap: false

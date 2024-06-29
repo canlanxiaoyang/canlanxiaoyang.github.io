@@ -87,3 +87,11 @@ hide_last_modified: true
 ![](../../assets/img/bio/2023-winter/postcard/19.jpg)
 
 ---
+
+![](../../assets/img/bio/2023-winter/postcard/20.png)
+
+---
+
+![](../../assets/img/bio/2023-winter/postcard/21.png)
+
+---
