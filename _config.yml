@@ -53,6 +53,8 @@ menu:
     url:               /plant/
   - title:             Biology Homework
     url:               /bio/
+  - title:             Club
+    url:               /club/
   - title:             Mc.Rojigally-pros
     url:               /mc/
   - title:             About
