@@ -3,7 +3,7 @@
 layout: label
 
 # The title of the tag's page.
-title:  Club
+title:  Club & Contest
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: club
