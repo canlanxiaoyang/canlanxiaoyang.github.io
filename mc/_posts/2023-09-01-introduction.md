@@ -3,7 +3,7 @@ layout: post
 title: Introduction to Mc. RoJigally-Pros
 description: >
   Written by **Patricia**
-image: /assets/img/mc/class-photo/1.jpg
+image: /assets/img/mc/class-photo/8.png
 hide_image: true
 sitemap: false
 hide_last_modified: true
@@ -20,3 +20,5 @@ Our class teacher, Ms. Yuan are our guiding lights, providing us with the knowle
 Mc.Rojigally-Pros is more than just a class; it is **a family where we learn, grow, and thrive together.** We look forward to the future with excitement and confidence, ready to face any challenge that comes our way. In the days to come, we will continue to **stand side by side**, bravely **pursuing our dreams** with boundless passion and unwavering determination, facing every challenge that life brings. **One day**, we will part ways, **embarking on our separate journeys** to the universities of our dreams across the seas, where we will continue the unfolding chapters of our lives. But this family filled with love and hope, **will forever shine brightly in our memories.**
 
 Follow us as we embark on this exciting journey, full of learning, laughter, and unforgettable experiences!
+
+![](../../assets/img/mc/class-photo/7.jpeg)
