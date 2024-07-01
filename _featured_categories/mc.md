@@ -10,8 +10,8 @@ slug: mc
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  班级简介
-
+  Welcome to Mc.Rojigally-Pros, a vibrant and dynamic class of 18 unique individuals. At here, you will see a group of young people with dreams, each possessing different talents and skills. Whether it’s active participation in class discussions or enthusiastic involvement in extracurricular activities, we always demonstrate unparalleled unity and teamwork. Every corner of our class is filled with the laughter of our classmates and the mutual encouragement and support we give each other.
+  
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 
