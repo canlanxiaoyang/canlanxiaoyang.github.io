@@ -10,7 +10,7 @@ slug: club
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  这里展出了校内社团的项目产出以及同学们的竞赛相关内容，这些项目和竞赛见证着孩子们在生物方面的探索，相信这些经历一定会在以后给他们留下深刻且回味无穷的记忆！
+  这里展示了一系列与生物学紧密相关的精彩活动、丰富多彩的校内社团以及竞赛项目。孩子们在学校悉心培育下，在生物领域进行探索与体验。这些宝贵而独特的经历，一定会化作他们心中难以忘怀的印记，激励他们在生命科学的浩瀚星空中继续翱翔。
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
