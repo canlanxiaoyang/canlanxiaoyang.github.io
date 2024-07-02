@@ -2,7 +2,7 @@
 layout: post
 description: >
   Attribution: CC BY 4.0 [Lin's Blog](https://dreta.dev/)
-image: /assets/img/mc/drama/4.png
+image: /assets/img/mc/one-year/2.png
 hide_image: true
 sitemap: false
 hide_last_modified: true
@@ -18,16 +18,10 @@ One day, during lunch break, I received the extremely exciting news that there w
 
 Looking back now, it was in that moment that I decided to pursue the international track. The reasoning was simple and clear: I didn’t want to sacrifice my entire personal life just to keep doing countless practice tests.
 
-<figure>
+![My middle school campus at night, when I was leaving for home](../../assets/img/mc/one-year/1.png)
 
-![My middle school campus at night, when I was leaving for home](https://dreta.dev/wp-content/uploads/2024/07/image-1024x768.png)
-
-<figcaption>
-
-It's unimaginable, but night classes are the norm in Chinese schools.
-
-</figcaption>
-
+<figure>  
+    < It's unimaginable, but night classes are the norm in Chinese schools. >  
 </figure>
 
 Then came the long and anxious wait. After an uneventful May and June, we finally received confirmation in July. I was going to BAID.
@@ -36,16 +30,10 @@ On August 31, 2023, I officially walked through the gates of BAID. Walking throu
 
 We toured the campus, took photos with the teachers, and principal Ms. Zhou and homeroom teacher Ms. Yuan introduced the teachers and courses. It was my first time eating in the school cafeteria, getting new books, meeting classmates, and attending new AP classes. Everything felt new and exciting, yet confusing.
 
-<figure>
+![A gate of a school under a blue sky.](../../assets/img/mc/one-year/2.png)
 
-![A gate of a school under a blue sky.](https://dreta.dev/wp-content/uploads/2024/04/PXL_20230901_083525026-1024x768.jpg)
-
-<figcaption>
-
-A picture that I took on my first day of high school.
-
-</figcaption>
-
+<figure>  
+    < A picture that I took on my first day of high school. >  
 </figure>
 
 * * *
@@ -66,16 +54,10 @@ Our group barely met the required number of members with five students, includin
 
 Barely managing to get a few people together, I faced another problem—the course content wasn’t engaging, and everyone seemed more interested in doing their homework instead. It seemed everyone’s time was tight, and the course didn’t appeal to them. One day, while I was teaching, I looked around and saw all of my students’ heads buried in their books and computers. It was a punch to the gut. I clenched, feeling utterly defeated.
 
-<figure>
+![3 students in a classroom with a blackboard and a screen showing web development software up front. One student is tutoring another.](../../assets/img/mc/one-year/3.png)
 
-![3 students in a classroom with a blackboard and a screen showing web development software up front. One student is tutoring another.](https://dreta.dev/wp-content/uploads/2024/07/mmexport1698325392428-1024x768.jpg)
-
-<figcaption>
-
-I was trying to help our only students.
-
-</figcaption>
-
+<figure>  
+    < I was trying to help our only students. >  
 </figure>
 
 That night, I collapsed on my bed, reflecting for a long while. What went wrong? I ruminated, but I couldn’t find an answer before falling asleep from exhaustion. It wasn’t until an opportunity during the winter break that I solved this puzzle.
@@ -92,16 +74,10 @@ Li He could be described in one sentence: “How is this person good at everythi
 
 I gladly accepted the invitation and attended a pre-departure meeting the same day. However, the meeting left me somewhat worried. How much could we teach in three days? How well would the local students adapt to our teaching? What results could be achieved in such a short time? These questions made my head spin.
 
-<figure>
+![Three students in a computer classroom, with two students working on their respective computers and one student standing behind them.](../../assets/img/mc/one-year/4.png)
 
-![Three students in a computer classroom, with two students working on their respective computers and one student standing behind them.](https://dreta.dev/wp-content/uploads/2024/07/PXL_20240222_162135987.MV_-1024x768.jpg)
-
-<figcaption>
-
-I was helping local students with their work.
-
-</figcaption>
-
+<figure>  
+    < I was helping local students with their work. >  
 </figure>
 
 Preparing the lessons was even more grueling. I was responsible for three lessons, each an hour long, and preparing each one took me four to five hours, including preparing handouts, slides, and practice materials. I could still remember what I wrote in the notes: "THE PAIN!"
@@ -116,16 +92,10 @@ I tried to learn from these lessons, and it yielded unbelievable results. The lo
 
 Before our activities ended, the local school organized a conclusion ceremony in the auditorium. As we were about to leave, I chatted with some local students, and they said the event brought them not just the little knowledge we could teach in three days but also a sense of curiosity. _At that exact moment, I felt a surge of fulfillment I had never experienced before._ I felt like I truly made a tangible difference.
 
-<figure>
+![A student standing in front of the classroom before a screen showing the text: "How do you make websites?"](../../assets/img/mc/one-year/5.png)
 
-![A student standing in front of the classroom before a screen showing the text: "How do you make websites?"](https://dreta.dev/wp-content/uploads/2024/07/PXL_20240222_163556347.MV_-1024x768.jpg)
-
-<figcaption>
-
-It was truly an unbelievable experience.
-
-</figcaption>
-
+<figure>  
+    < It was truly an unbelievable experience. >  
 </figure>
 
 This might have been the most fulfilling winter vacation I have ever experienced in my life. This was the first time that I started thinking about some questions I had never considered before: How do you get familiar quickly with new students? How can you break the barrier between students and teachers? How might you capture attention? Simply giving a few lessons might not fully answer these questions, but it has truly opened my eyes to the world of possibilities before me. It showed me the true power of knowledge sharing and collaboration.
@@ -140,16 +110,11 @@ The new semester was about to start, but I hadn’t finished my assignments. Aft
 
 On a Friday evening, we started the first class: linear models. I had the presumption that it would be very simple (stemming from the word "linear"), but reality soon proved me severely wrong. The professor mentioned using partial derivatives to find the minimum value of the loss function, but I didn’t even know what a “derivative” was. This issue became more evident in subsequent lessons: in the second class, the professor introduced representing linear models using matrices, and I had no idea what a “matrix” was. On occasion, I could understand a lesson on the first try, and I'd be ecstatic. But more often than not, I could only grasp the general concept, remaining confused about the specifics.
 
-<figure>
 
-![A homework report for the machine learning course.](https://dreta.dev/wp-content/uploads/2024/07/image-1.png)
+![A homework report for the machine learning course.](../../assets/img/mc/one-year/6.png)
 
-<figcaption>
-
-It was almost impossible to work on the report that we were assigned.
-
-</figcaption>
-
+<figure>  
+    < It was almost impossible to work on the report that we were assigned. >  
 </figure>
 
 I was greatly challenged. For a moment, I realized a harsh truth: _I knew nothing_. Sometimes, I felt extremely doubtful of myself. I had severe imposter syndrome, where, despite others around me seeming to think I was capable, I doubted myself. What should I do?
@@ -168,16 +133,10 @@ Looking back, when I first decided to come to BAID, I was indeed naive. I didn�
 
 A year later, I _am_ no longer naive. For the first time, I know the goals I strive for, understand my current position, clearly see what I need to do, and hear the possibilities for my future.
 
-<figure>
+![A whiteboard with the text "Welcome to BAID" and "G9C1" on it, along with drawings of anime characters.](../../assets/img/mc/one-year/7.png)
 
-![A whiteboard with the text "Welcome to BAID" and "G9C1" on it, along with drawings of anime characters.](https://dreta.dev/wp-content/uploads/2024/07/PXL_20240621_175931847.MV_-1024x768.jpg)
-
-<figcaption>
-
-A year later, I am no longer naive.
-
-</figcaption>
-
+<figure>  
+    < A year later, I am no longer naive. >  
 </figure>
 
 I have grown. During my year at BAID, I had my first time daring to start a student group in an unfamiliar environment, tackling numerous challenges along the way. During my year at BAID, I had my first time pondering questions I had never considered before and having incredible moments of enlightenment. During my year at BAID, I had my first time seeing my ignorance, knowing what I didn’t know, and understanding _how_ to know what I didn’t know.
