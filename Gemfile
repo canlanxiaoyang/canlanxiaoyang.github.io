@@ -54,3 +54,6 @@ end
 gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
 
+# for search
+gem 'jieba_rb'
+gem 'nokogiri'
