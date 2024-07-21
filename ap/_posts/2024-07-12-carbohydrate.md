@@ -44,3 +44,5 @@ What is the directionality of the subunits of carbohydrates?  How may a change i
 - Crash Course Biology: Biological Molecules—You Are What You Eat
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112808071007421&bvid=BV14m8JeqEeq&cid=500001619652422&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
+- BioNinja: [Carbohydrates, Lipids and Proteins](https://www.ib.bioninja.com.au/standard-level/topic-3-chemicals-of-life/32-carbohydrates-lipids-and.html)
