@@ -12,7 +12,8 @@ hide_last_modified: true
 
 *Matter is made up of elements. An element is a substance that cannot be broken down to other substances by chemical reactions. Of the 92 natural elements, about 20–25% are essential elements that an organism needs to live a healthy life and reproduce.*
 
-1. **To Think About:** 
+**To Think About:** 
+
 Why do living systems require a constant input of energy?  
 Why must living systems exchange matter with the environment?  
 What role does carbon have in the building of biological macromolecules?  
@@ -24,7 +25,7 @@ What are dehydration synthesis and hydrolysis reactions?
 
 ---
 
-2. **Watch: AP Daily Video Elements of Life**
+**Watch: AP Daily Video Elements of Life**
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=762646093&bvid=BV1964y1a7Xj&cid=399042194&p=2&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
@@ -67,6 +68,8 @@ What are dehydration synthesis and hydrolysis reactions?
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112808071007421&bvid=BV14m8JeqEeq&cid=500001619652422&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
-- BioNinja (for IB students, but a good resource): [Carbohydrates, Lipids and Proteins](https://www.ib.bioninja.com.au/standard-level/topic-3-chemicals-of-life/32-carbohydrates-lipids-and.html)
+- BioNinja: [Chemical Elements and Water](https://www.ib.bioninja.com.au/standard-level/topic-3-chemicals-of-life/31-chemical-elements-and.html)
+
+- BioNinja: [Carbohydrates, Lipids and Proteins](https://www.ib.bioninja.com.au/standard-level/topic-3-chemicals-of-life/32-carbohydrates-lipids-and.html)
 
 
