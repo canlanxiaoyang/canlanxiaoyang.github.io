@@ -65,8 +65,8 @@ f.	Dual Y
 
 - What does water potential measure?
 - What are the two components of water potential?
-- Water moves from areas of ___________ water potential to areas of ________ water potential.
-- The value of water potential can be _______, _________, or __________.
+- Water moves from areas of<u>____________________</u>water potential to areas of<u>____________________</u>water potential.
+- The value of water potential can be<u>____________________</u>, <u>____________________</u>, or<u>____________________</u>.
 - What is the water potential of pure water?
 - How does increasing the amount of solute affect water potential?
 - What does an ionization constant tell you?

@@ -24,7 +24,7 @@ What is the directionality of the subunits of Nucleic Acids?  How does the direc
 
 **Answer the Following Questions:**
 
-- The 5’ carbon in the sugar of a nucleotide has a _____________________ group attached, while the 3’ carbon in the sugar of a nucleotide has ____________________ group attached.
+- The 5’ carbon in the sugar of a nucleotide has a<u>____________________</u>group attached, while the 3’ carbon in the sugar of a nucleotide has<u>____________________</u>group attached.
 - Why are the two strands of the DNA double helix considered antiparallel?
 - What is the number of hydrogen bonds between the base pairs of DNA?
 - How does the antiparallel nature of the DNA molecule affect its replication?

@@ -24,10 +24,10 @@ What is the directionality of the subunits of carbohydrates?  How may a change i
 
 **Answer the Following Questions:**
 
-- Carbohydrates are chains of__________________________________connected by____________________________ bonds.
+- Carbohydrates are chains of <u>____________________</u>connected by <u>____________________</u>bonds.
 - How are the functions of starch and glycogen similar?
 - How are the functions of starch and cellulose different?
-- Carbohydrates can have either ________________________or________________________ structures which affect their function.
+- Carbohydrates can have either  <u>____________________</u>or <u>____________________</u>structures which affect their function.
 
 ---
 

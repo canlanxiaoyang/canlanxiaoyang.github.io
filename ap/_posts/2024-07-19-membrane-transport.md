@@ -24,10 +24,10 @@ How are molecules passively transported across a membrane? How are molecules act
 
 **Answer the Following Questions:**
 
-- Passive transport is the movement of molecules from areas of ______ concentration to areas of ______ concentration _______________ the use of metabolic energy.
+- Passive transport is the movement of molecules from areas of<u>____________________</u>concentration to areas of<u>____________________</u>concentration<u>____________________</u>the use of metabolic energy.
 - The two types of passive transport are <u>_______________</u>and<u>_______________</u>
 - Explain two ways in which facilitated diffusion is different from diffusion.
-- Active transport requires ______________ to move molecules from areas of _________ concentration to areas of _____________ concentration.
+- Active transport requires<u>____________________</u>to move molecules from areas of<u>____________________</u>concentration to areas of<u>____________________</u>concentration.
 - List and describe the three types of endocytosis.
 - What are some things the cell might secrete through the process of exocytosis?
 

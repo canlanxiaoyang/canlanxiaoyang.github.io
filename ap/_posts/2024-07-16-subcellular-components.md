@@ -24,7 +24,7 @@ How do ribosomes reflect the common ancestry of all known life?  What is the str
 
 **Answer the Following Questions:**
 
-- All cells have a ___________ and ______________ reflecting a _______________     ____________ of all life.
+- All cells have a<u>____________________</u>and<u>____________________</u>reflecting a<u>____________________</u>of all life.
 - How are the genomes of eukaryotic cells different from prokaryotic genomes?
 - What is the function of ribosomes? What are ribosomes made of?
 - How are rough ER and smooth ER different?
