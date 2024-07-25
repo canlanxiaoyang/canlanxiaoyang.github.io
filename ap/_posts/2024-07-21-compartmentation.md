@@ -8,7 +8,7 @@ sitemap: false
 hide_last_modified: true
 ---
 
-# 2.7 Origin of Compartmentalization and the Eukaryotic Cell
+# 2.7 Origin of Compartmen-talization and the Eukaryotic Cell
 
 *Membranes and membrane-bound organelles in eukaryotic cells compartmentalize intracellular metabolic processes and specific enzymatic reactions.*
 
