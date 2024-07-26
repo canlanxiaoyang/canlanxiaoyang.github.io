@@ -40,7 +40,7 @@ How does the structure of a phospholipid establish and maintain the internal env
 
 **Answer the Following Questions:**
 
-- Selective permeability is a direct consequence of _________________
+- Selective permeability is a direct consequence of<u>____________________</u>
 - What types of molecules can pass freely through the cell membrane?  Give some examples of these types of molecules.
 - Large, polar (hydrophilic) molecules cannot move freely across the cell membrane.  List and describe two types of transport proteins that help these large polar molecules cross the cell membrane.
 - Can water pass through the cell membrane without a transport protein?

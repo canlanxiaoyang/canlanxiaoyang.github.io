@@ -36,7 +36,7 @@ What are some similarities and/or differences in compartmentalization between pr
 **Answer the Following Questions:**
 
 - What is the function of the plasma membrane in both prokaryotic and eukaryotic cells?
-- Prokaryotic cells have an internal region called the ______________ which contain its genetic material, but eukaryotes have a membrane bound ________________ which contain genetic material.
+- Prokaryotic cells have an internal region called the<u>____________________</u>which contain its genetic material, but eukaryotes have a membrane bound<u>____________________</u>which contain genetic material.
 - Which eukaryotic membrane bound organelle is thought to have evolved from infoldings of the plasma membrane?
 - Which eukaryotic membrane bound organelles are thought to have evolved from the process of endosymbiosis?
 - Describe the process of endosymbiosis.
