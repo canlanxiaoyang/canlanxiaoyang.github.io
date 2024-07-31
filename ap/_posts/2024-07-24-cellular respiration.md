@@ -79,6 +79,10 @@ c. Finally, <u>_________</u> is phosphorylated and turned into <u>__________</u>
 
 ***Supplementary Resources:*** 
 
+- Bozeman Science: Mr. Andersen’s “Cellular Respiration” video
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112881773382486&bvid=BV1Vgv4eyEuW&cid=500001633965849&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
 - Bozeman Science: Mr. Andersen’s “Anaerobic Respiration” video
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112833790609096&bvid=BV1kP8eePEau&cid=500001624377556&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
