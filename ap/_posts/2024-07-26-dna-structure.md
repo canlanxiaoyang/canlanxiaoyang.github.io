@@ -25,7 +25,7 @@ What is the source of heritable information found in cells? What are the charact
 **Answer the Following Questions:**
 
 - How is genetic information stored in living organisms?
-- Genetic information is passed from parent to daughter cells by <u>__________</u> which is packaged into <u>__________________</u>
+- Genetic information is passed from parent to daughter cells by <u>__________</u> which is packaged into <u>__________________</u>.
 - What molecule can some viruses use to encode genetic information?
 - Describe three similarities between DNA and RNA.
 - What are the base pairing rules for DNA?  How are the base pairing rules for RNA different?
