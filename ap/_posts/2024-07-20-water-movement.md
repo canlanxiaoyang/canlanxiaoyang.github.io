@@ -27,16 +27,16 @@ What are the different ways to describe the relative tonicity of environments?  
 - What is osmosis?  
 - Water is a polar molecule, so how do large quantities of water get across the phospholipid bilayer?
 - Explain the difference between a solute and a solvent.
-- The total solute concentration in a solution is called ___________________
+- The total solute concentration in a solution is called <u>___________________</u>
 - What is tonicity?
 - How are water concentrations and solute concentrations related to each other?
-- Water diffuses from a _________________ environment into a ______________________ environment.
+- Water diffuses from a <u>_________________</u> environment into a <u>______________________</u> environment.
 - Explain how water moves in a dynamic equilibrium.
-- In plant cells, environmental hypertonicity results in ____________________, which results in water _____________________  the cell.
-- In plant cells, environmental hypotonicity results in _____________________, which results in water ____________________  the cell.
+- In plant cells, environmental hypertonicity results in <u>____________________</u>, which results in water <u>_____________________</u>  the cell.
+- In plant cells, environmental hypotonicity results in <u>_____________________</u>, which results in water <u>____________________</u> the cell.
 - Explain why a plant cell does not lyse/explode when in environmental hypotonicity.
-- In animal cells, environmental hypertonicity results in a cell that is _____________
-- In animal cells, environmental hypotonicity results in a cell that is _____________
+- In animal cells, environmental hypertonicity results in a cell that is <u>_____________</u>
+- In animal cells, environmental hypotonicity results in a cell that is <u>_____________</u>
 - How does a paramecium avoid lysis in a hypotonic environment?
 
 **Watch: AP Daily Video Tonicity and Osmoregulation (Graphing)**
