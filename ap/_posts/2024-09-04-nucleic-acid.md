@@ -45,4 +45,3 @@ What is the directionality of the subunits of Nucleic Acids?  How does the direc
 
 - DNA From the Beginning: [The DNA molecule is shaped like a twisted ladder](https://www.dnaftb.org/19/)
 
-
