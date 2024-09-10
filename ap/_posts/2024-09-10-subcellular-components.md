@@ -70,4 +70,3 @@ How do ribosomes reflect the common ancestry of all known life?  What is the str
 - Florida State-Molecular Expressions: [Plant Cells](https://micro.magnet.fsu.edu/cells/plantcell.html)
 
 - 1974 Nobel Prize in Physiology and Medicine: [awarded for “discoveries concerning the structural and functional organization of the cell.”](https://www.nobelprize.org/prizes/medicine/1974/summary/)
-

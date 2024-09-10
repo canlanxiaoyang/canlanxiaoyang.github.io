@@ -70,9 +70,7 @@ How are molecules passively transported across a membrane? How are molecules act
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112829310962505&bvid=BV1Pm84eDEJ1&cid=500001623540861&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
+- Amoeba Sisters: Sodium Potassium Pump
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113115899364326&bvid=BV1Nq4ieBEXJ&cid=25818432413&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
 - Nobel Prize in Chemistry, 2003:  [Peter Agre and Roderick MacKinnon, “for discoveries concerning channels in cell membranes.”](https://www.nobelprize.org/prizes/chemistry/2003/prize-announcement/)
-
-
-
-
-
