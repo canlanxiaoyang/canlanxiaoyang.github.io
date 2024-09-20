@@ -82,6 +82,3 @@ f.	Dual Y
 - Georgia State University Hyperphysics: [Diffusion and Osmosis (from a physicist’s point of view)](http://hyperphysics.phy-astr.gsu.edu/hbase/Kinetic/diffus.html)
 
 - Wisc-Online: [Passive Transport-Osmosis (simulation)](https://www.wisc-online.com/learn/natural-science/life-science/ap11003/the-cell-passive-transport-osmosis)
-
-
-
