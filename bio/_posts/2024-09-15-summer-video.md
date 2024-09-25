@@ -4,7 +4,7 @@ title:    2024-25学年AP生物暑假作业——实验视频
 description: >
   优秀视频作业展示：开展一次安全的可实施的生物小实验，拍摄2-3分钟的短视频记录过程
 sitemap: false
-image: /assets/img/bio/mitosis/1.jpg
+image: /assets/img/bio/2024-summer/poster/2.png
 hide_image: true
 hide_last_modified: true
 ---
