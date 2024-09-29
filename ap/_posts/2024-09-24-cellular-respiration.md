@@ -94,3 +94,4 @@ c. Finally, <u>_________</u> is phosphorylated and turned into <u>__________</u>
 - Virtual Cell Animation:  [Glycolysis, Step by Step](http://vcell.ndsu.nodak.edu/animations/glycolysis_overview/first.htm)
 
 - McGraw Hill:  [How the Krebs Cycle Works](https://highered.mheducation.com/sites/0072507470/student_view0/chapter25/animation__how_the_krebs_cycle_works__quiz_1_.html)
+

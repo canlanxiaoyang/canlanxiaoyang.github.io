@@ -44,6 +44,3 @@ What do living things use chemical energy for? How is energy efficiently transfe
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112833790741411&bvid=BV1rP8eewE4P&cid=500001624377817&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 Boundless Biology: [Free Energy](https://www.nursinghero.com/study-guides/boundless-biology/potential-kinetic-free-and-activation-energy)
-
-
-
