@@ -16,7 +16,7 @@ hide_last_modified: true
 
 How do scientists use math to talk about science?  
 Why do scientists use math to talk about the data they collect?  
-Why is it important to perform quantitative analysis of data?
+Why is it important to perform quantitative analysis of data? 
 
 ---
 
