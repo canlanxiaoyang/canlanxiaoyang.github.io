@@ -40,7 +40,11 @@ JUDGING SESSION（线上线下加起来一共6个评委，先听你们5分钟的
 最后，我想感谢所有帮助我们完成今年比赛的博士，老师，同学，专家，企业以及一直在我们背后默默推波助澜的家长们，并且祝愿随后每一年的北中iGEM校队取得优异的成绩，希望我们是北中iGEM唯一的遗憾！<br>
 <div align="right">
 
-希望我们的经历能对你们项目的发展有所帮助 People are dying, but we take CARE!
+希望我们的经历能对你们项目的发展有所帮助
+</div>
+
+<div align="right">
+People are dying, but we take CARE!
 </div>
 
 ---
