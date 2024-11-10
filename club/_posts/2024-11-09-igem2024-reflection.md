@@ -11,6 +11,8 @@ hide_last_modified: true
 
 # 2024 iGEM Reflections
 
+![](../../assets/img/club/igem2024/group.jpeg)
+
 ## Reflection 1
 
 Written by **Zhongjun Bai**
