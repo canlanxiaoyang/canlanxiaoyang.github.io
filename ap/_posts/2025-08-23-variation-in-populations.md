@@ -33,4 +33,19 @@ What determines if an allele is deleterious or adaptive?
 
 ***Supplementary Resources:*** 
 
-On the way...
+- Sickle Cell Anemia
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113519508849015&bvid=BV1YLUSYdES1&cid=26873368158&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+- What Does Malaria Do to the Human Body?
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113519508852361&bvid=BV1aLUSYdEZz&cid=26873430096&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
+- The Life Cycle of Malaria: Human Host
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113519508851647&bvid=BV1YLUSYdEHw&cid=26873368045&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
+- Malaria Life Cycle Part: Mosquito Host
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113519508849317&bvid=BV1YLUSYdE9p&cid=26873430312&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
