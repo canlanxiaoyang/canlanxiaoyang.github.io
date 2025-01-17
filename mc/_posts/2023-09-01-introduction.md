@@ -10,7 +10,7 @@ hide_last_modified: true
 ---
 
 
-**Welcome to Mc.Rojigally-Pros**, a vibrant and dynamic class of 18 unique individuals. 
+**Welcome to Mc.Rojigally-Pros**, a vibrant and dynamic class of 19 unique individuals. 
 
 
 欢迎来到 Mc.Rojigally-Pros，一个充满活力的由19人组成的班集体。
