@@ -2,7 +2,7 @@
 layout: post
 description: >
   作者： **Benjamin**
-image: /assets/img/mc/mononoke/1.png
+image: /assets/img/mc/mononoke/1.jpg
 hide_image: true
 sitemap: false
 hide_last_modified: true
