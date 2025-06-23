@@ -24,7 +24,7 @@ hide_description: true
 
 ## 生物作业展示 Biology Homework
 
-这里汇集了孩子们在基础生物、强化生物课程的学习中智慧和努力的结晶。他们的卓越才华和独特创意令人赞叹，我精心挑选了他们的优秀作业，期待与您共同欣赏这些成果。
+这里汇集了孩子们在基础生物、合格考生物、强化生物和AP生物课程的学习中智慧和努力的结晶。他们的卓越才华和独特创意令人赞叹，我精心挑选了他们的优秀作业，期待与您共同欣赏这些成果。
 
 <p style="text-align: justify;"> 
 Here are outstanding assignments meticulously completed by students across biology, honor biology, and AP biology courses. Each assignment showcases creativity and inspiration, illustrating the growth and progress of our students on their biological journey.
@@ -49,6 +49,8 @@ These activities encompass diverse biology-related clubs and competition project
 AP生物是美国大学理事会提供的高中课程，旨在帮助学生掌握大学水平的生物学知识。课程内容涵盖四大主题：进化、细胞过程（包括能量和通讯）、遗传和信息传递、以及生物系统的相互作用。AP生物学强调实验和数据分析，培养学生的科学思维能力。学生在完成课程后可以参加AP考试，如果成绩优异，可以在大学获得学分或高级课程资格。
 
 AP Biology (Advanced Placement Biology) is a high school course offered by the College Board in the United States, designed to help students master college-level biology knowledge. The course covers four main themes - Evolution, Cellular processes (including energy and communication), Genetics and Information transfer, and interactions of biological systems. AP Biology emphasizes experiments and data analysis, fostering students' scientific thinking skills. Upon completing the course, students can take the AP exam, and high scores may earn them college credit or advanced placement.
+
+![](assets/img/about/about_4.jpg)
 
 ---
 
