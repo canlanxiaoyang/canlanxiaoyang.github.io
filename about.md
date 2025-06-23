@@ -42,6 +42,8 @@ Here are outstanding assignments meticulously completed by students across biolo
 These activities encompass diverse biology-related clubs and competition projects, providing students with hands-on experiences under the school's nurturing guidance. These memorable experiences are a testament to their growth and will inspire them as they continue to explore.
 </p>
 
+![](assets/img/club/igem2024/group.jpeg)
+
 ---
 
 ## AP生物 AP Biology

@@ -15,6 +15,24 @@ permalink: /plant/
 observation of growth patterns, analysis of physiological characteristics, and interpretation of morphological structures. Emphasizing the impact of environmental changes on plant, students are guided to scientifically analyze experimental results. This curriculum aims to cultivate students' problem-solving acumen, critical thinking skills, logical analysis abilities, independent research spirit, and teamwork dynamics, laying a robust foundation for future independent research and academic projects in college.  
 </p>
 
+## 2024-2025学年汇报
+## 研究课题和小组成员
+### 宇宙无敌暴龙战士队（辣椒素小组）：李YF、虞CJ、周ZX、齐J、姜L
+![](../assets/img/plant/poster_4.jpg)
+
+![](../assets/img/plant/poster_5.jpg)
+### 光周期小组：朱JY、赵CY、韩ZY、牛B
+![](../assets/img/plant/poster_6.png)
+### 陆战队（光照小组）：杨CY、陈TY、孙YM、陈YH、王ZR
+![](../assets/img/plant/poster_7.jpg)
+
+![](../assets/img/plant/mijiu.jpg)
+
+## 选修课花絮
+![](../assets/img/plant/zongzi.jpg)
+
+![](../assets/img/plant/tanghua.jpg)
+
 ## 2023-2024学年汇报视频
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112670497965546&bvid=BV1xi3jeCETW&cid=500001594784506&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
