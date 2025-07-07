@@ -1,7 +1,7 @@
 ---
 layout: post
 description: >
-  作者： **Benjamin**
+  Repost from [BBJ's blog](https://www.benjaminjiang.com)
 image: /assets/img/mc/mononoke/1.jpg
 hide_image: true
 sitemap: false
