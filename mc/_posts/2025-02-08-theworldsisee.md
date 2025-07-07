@@ -1,7 +1,7 @@
 ---
 layout: post
 description: >
-  作者： **Lin**
+  Repost from [Lin's Blog](https://dreta.dev/)
 image: /assets/img/mc/theworldsisee/1.png
 hide_image: true
 sitemap: false

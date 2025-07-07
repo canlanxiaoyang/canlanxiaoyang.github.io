@@ -1,7 +1,7 @@
 ---
 layout: post
 description: >
-  作者： **Benjamin**
+  Repost from [BBJ's blog](https://www.benjaminjiang.com)
 image: /assets/img/mc/beforeeverything/1.jpeg
 hide_image: true
 sitemap: false
