@@ -81,3 +81,5 @@ Mc.Rojigally-Pros, a vibrant and dynamic class of 19 unique individuals. At here
 [Cliff's Notes for AP Biology](https://dawn-countess-e09.notion.site/AP-Biology-Notes-1a83a033920080bfaeeadd0b7446bfb4?pvs=4)
 
 [Avian Luna Li](https://www.avianw.com/)
+
+[Cliff's Blog](https://headlessgravel.github.io/)
