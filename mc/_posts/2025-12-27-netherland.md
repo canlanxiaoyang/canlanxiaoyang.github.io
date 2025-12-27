@@ -50,7 +50,7 @@ We took the train south to Brussels. There, we experienced another rhythm. The m
 
 Walking through the city, I started with, I had to admit, huge anxiety. Looking at the people walked by, I was really afraid of someone instantly jumped in front of me and performing hatreds. Gradually, this kind of anxiety eliminated as I realized that people in Brussel were as kind as people in the Netherlands. Each city had its own voice, its own tempo, its own way of breathing. The Netherlands spoke softly, in water and bicycles and gentle order. Brussels spoke in stone and echo and quiet dignity. And together, they formed a calm but ongoing conversation across borders.
 
-** And I loved listening. **
+**And I loved listening.**
 
 We found our way to the Grand-Place. The square opened suddenly around us like a theatre stage, enclosed by golden facades that glowed even under a cloudy sky. Every building felt intricately carved, as if the architects had been sculptors first and planners second.
 
