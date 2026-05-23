@@ -788,8 +788,8 @@ btnRecognize.addEventListener("click", async function() {
       signal: controller.signal
     });
     const rawText = await resp.text();
-    if (!resp.ok && window.location.protocol === "https:" && resp.status === 404) {
-      throw new Error("HTTPS 代理尚未部署，请先部署 /api/microbe/recognize 代理；临时可访问 http://xyyuan.fun/microbe/ 使用。");
+    if (!resp.ok && window.location.protocol === "https:") {
+      throw new Error(`HTTPS 代理尚未部署或未绑定成功（接口返回 ${resp.status}），请先部署 /api/microbe/recognize 代理；临时可访问 http://xyyuan.fun/microbe/ 使用。`);
     }
     let data;
     try {
@@ -807,7 +807,10 @@ btnRecognize.addEventListener("click", async function() {
       setResultText("识别失败: " + (data.error || "未知错误"));
     }
   } catch (err) {
-    const message = err.name === "AbortError" ? "识别超时，请换一张更清晰或更小的图片重试" : err.message;
+    let message = err.name === "AbortError" ? "识别超时，请换一张更清晰或更小的图片重试" : err.message;
+    if (window.location.protocol === "https:" && message === "Failed to fetch") {
+      message = "HTTPS 代理尚未部署或未绑定成功，浏览器无法从 HTTPS 页面访问当前 HTTP 服务器；临时可访问 http://xyyuan.fun/microbe/ 使用。";
+    }
     if (message.includes("HTTPS 代理")) {
       showProxyNote(message);
     }
