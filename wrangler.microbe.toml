@@ -1,0 +1,14 @@
+name = "microbe-api-proxy"
+main = "workers-site/microbe-proxy.js"
+compatibility_date = "2026-05-23"
+
+# After logging in to Cloudflare, deploy with:
+# npx wrangler deploy --config wrangler.microbe.toml
+#
+# Bind this worker to:
+# https://xyyuan.fun/api/microbe/*
+#
+# If Wrangler cannot infer the zone, add your Cloudflare zone_id below.
+# routes = [
+#   { pattern = "xyyuan.fun/api/microbe/*", zone_id = "YOUR_ZONE_ID" }
+# ]
