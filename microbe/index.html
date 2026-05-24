@@ -410,6 +410,16 @@
     text-align: right;
     font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
   }
+  .model-badge {
+    position: relative;
+    z-index: 1;
+    margin-top: -4px;
+    margin-bottom: 12px;
+    color: #66756b;
+    font-size: 12px;
+    text-align: center;
+    font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+  }
 
   .status-text {
     position: relative;
@@ -536,6 +546,7 @@
         <input type="file" id="gallery-input" accept="image/*">
 
         <button class="btn-recognize" id="btn-recognize" disabled>识别图片</button>
+        <div class="model-badge">使用模型：gpt-5.5</div>
 
         <div class="status-text" id="status"></div>
         <div class="proxy-note" id="proxy-note"></div>
