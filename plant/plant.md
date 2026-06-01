@@ -50,7 +50,28 @@ observation of growth patterns, analysis of physiological characteristics, and i
 
 课程以3-5人为一组开展研究，每组学生在每学期末完成并生成一张科研海报。部分优秀作品已在校园内展出，展现出扎实的研究成果与良好的科学素养。多名选修课学生在后续参与学校科研项目和科技创新竞赛中表现突出，充分体现了课程所培养的科研能力与实践水平。更有学生反馈，本课程为其撰写大学申请文书、参与高校综合评价面试提供了有力支撑，成为其学术发展道路上的重要助力。
 
-## 近两年研究课题和小组成员
+## 近三年研究课题和小组成员
+
+### TEAA队：Tiffiny, Estelle, Angie, Anny
+![](../assets/img/plant/2026_1.png)
+
+### Ji Qi, Zixuan Zhao, Boyan Zhang, Lai Jiang, Junxiong Tao, Jinghan Hu
+![](../assets/img/plant/2026_2.png)
+
+### Lifu Liu, Luoyao Wang, Yumo Sun, Yifei Gao, Jitao Ran
+![](../assets/img/plant/2026_3.png)
+
+### Cliff, Tiffany, Bullard, Frank, Tiger
+![](../assets/img/plant/2026_4.png)
+
+### Zixun Huang, Luoyao Wang, Jinghan Hu, Yumo Sun, Jitao Ran
+![](../assets/img/plant/2026_5.jpg)
+
+### Ji Qi, Lai Jiang
+![](../assets/img/plant/2026_6.png)
+
+### Estelle, Anny, Ruby
+![](../assets/img/plant/2026_7.png)
 
 ### 宇宙无敌暴龙战士队（辣椒素小组）：李YF、虞CJ、周ZX、齐J、姜L
 ![](../assets/img/plant/poster_4.jpg)
