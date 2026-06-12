@@ -65,13 +65,13 @@ observation of growth patterns, analysis of physiological characteristics, and i
 ![](../assets/img/plant/2026_4.png)
 
 ### Zixun Huang, Luoyao Wang, Jinghan Hu, Yumo Sun, Jitao Ran
-![](../assets/img/plant/2026_5.jpg)
+![](../assets/img/plant/2026_7.png)
 
 ### Ji Qi, Lai Jiang
 ![](../assets/img/plant/2026_6.png)
 
 ### Estelle, Anny, Ruby
-![](../assets/img/plant/2026_7.png)
+![](../assets/img/plant/2026_5.png)
 
 ### 宇宙无敌暴龙战士队（辣椒素小组）：李YF、虞CJ、周ZX、齐J、姜L
 ![](../assets/img/plant/poster_4.jpg)
